@@ -1,0 +1,5 @@
+C:\Users\YEH\documents\visual studio 2010\Projects\FlightBookingSoftwareSystem\FlightBookingSoftwareSystem\bin\Debug\FlightBookingSoftwareSystem.exe
+C:\Users\YEH\documents\visual studio 2010\Projects\FlightBookingSoftwareSystem\FlightBookingSoftwareSystem\bin\Debug\FlightBookingSoftwareSystem.pdb
+C:\Users\YEH\documents\visual studio 2010\Projects\FlightBookingSoftwareSystem\FlightBookingSoftwareSystem\obj\x86\Debug\FlightBookingSoftwareSystem.csprojResolveAssemblyReference.cache
+C:\Users\YEH\documents\visual studio 2010\Projects\FlightBookingSoftwareSystem\FlightBookingSoftwareSystem\obj\x86\Debug\FlightBookingSoftwareSystem.exe
+C:\Users\YEH\documents\visual studio 2010\Projects\FlightBookingSoftwareSystem\FlightBookingSoftwareSystem\obj\x86\Debug\FlightBookingSoftwareSystem.pdb
